@@ -1,0 +1,2 @@
+# recipies
+Static site 
